@@ -1,3 +1,0 @@
-vec<-c(10,55,32,75,99)
-print(vec)
-print(sum(vec))

@@ -1,2 +1,0 @@
-my_list<-list(name="Govind",Age=21,Marks=c(80,77,98))
-print(my_list)
